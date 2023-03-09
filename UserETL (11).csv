@@ -1,0 +1,3 @@
+﻿attribute:LoyaltyCardNumber,attribute:customerId,attribute:emailAddress,attribute:profileId,attribute:FirstName,attribute:BirthDate,attribute:LastName,attribute:City,attribute:LifecycleStage,attribute:LoyaltyPoints,attribute:LTV,attribute:FirstVisit,attribute:LastVisit,attribute:Country,attribute:OptInApp,attribute:OptInEmail,attribute:OptInSMS
+1,7044951b-1eb0-4b64-80f7-7b6dea0f41a5,sroot0@alexa.com,,Pò,1989-08-30,Root,Calinaoan Malasin,Awareness,22273,4713,2009-10-31,2023-03-08,Philippines,true,true,true
+2,35726a56-90d2-4f40-9d11-cca766955fb1,swither1@auda.org.au,,Edmée,1995-01-02,Wither,Pszczyna,Re-Purchase,43116,6049,2001-05-11,2023-03-06,Poland,false,false,true

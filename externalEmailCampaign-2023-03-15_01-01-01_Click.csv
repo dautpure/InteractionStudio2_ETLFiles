@@ -1,0 +1,261 @@
+userId,externalCampaignId,externalCampaignName,eventType,eventDate,externalSystem
+85641c63d53a132915e30a97,CAM_01,Back to the Start,Click,2023-03-23T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-24T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-25T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-26T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-23T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-24T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-25T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-26T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-23T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-24T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Click,2023-03-25T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_01,Back to the Start,Click,2023-03-26T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_01,Back to the Start,Click,2023-03-23T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_02,Wassup,Click,2023-03-24T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-25T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-26T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-23T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-24T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-25T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-26T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-23T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-24T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-25T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_02,Wassup,Click,2023-03-26T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_02,Wassup,Click,2023-03-23T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_02,Wassup,Click,2023-03-24T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_03,Get a Mac,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_03,Get a Mac,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_03,Get a Mac,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_04,The Bottle,Click,2023-03-26T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-23T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-24T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-25T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-26T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-23T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-24T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-25T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-26T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-23T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_04,The Bottle,Click,2023-03-24T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_04,The Bottle,Click,2023-03-25T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_04,The Bottle,Click,2023-03-26T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_05,Every Kiss Begins with Kay,Click,2023-03-23T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-24T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-25T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-26T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-23T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-24T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-25T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-26T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-23T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-24T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_05,Every Kiss Begins with Kay,Click,2023-03-25T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_05,Every Kiss Begins with Kay,Click,2023-03-26T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_05,Every Kiss Begins with Kay,Click,2023-03-23T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_06,Real Beauty,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_06,Real Beauty,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_06,Real Beauty,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_06,Real Beauty,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_07,Truth,Click,2023-03-25T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-26T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-23T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-24T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-25T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-26T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-23T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-24T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-25T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-26T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_07,Truth,Click,2023-03-23T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_07,Truth,Click,2023-03-24T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_07,Truth,Click,2023-03-25T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-26T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-23T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-24T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-25T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-26T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-23T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-24T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-25T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-26T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-23T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-24T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-25T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_08,The Man Your Man Can Smell Like,Click,2023-03-26T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_09,1984 Super Bowl ad,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_09,1984 Super Bowl ad,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_09,1984 Super Bowl ad,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_09,1984 Super Bowl ad,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_10,Mayhem,Click,2023-03-24T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-25T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-26T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-23T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-24T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-25T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-26T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-23T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-24T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-25T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_10,Mayhem,Click,2023-03-26T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_10,Mayhem,Click,2023-03-23T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_10,Mayhem,Click,2023-03-24T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_11,It's Time to DeSide,Click,2023-03-25T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-26T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-23T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-24T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-25T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-26T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-23T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-24T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-25T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-26T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_11,It's Time to DeSide,Click,2023-03-23T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_11,It's Time to DeSide,Click,2023-03-24T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_11,It's Time to DeSide,Click,2023-03-25T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_12,The Last Mile,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_12,The Last Mile,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_12,The Last Mile,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_12,The Last Mile,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_13,Just Do It,Click,2023-03-23T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-24T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-25T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-26T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-23T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-24T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-25T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-26T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-23T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-24T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_13,Just Do It,Click,2023-03-25T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_13,Just Do It,Click,2023-03-26T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_13,Just Do It,Click,2023-03-23T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_14,Think Different,Click,2023-03-24T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-25T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-26T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-23T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-24T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-25T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-26T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-23T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-24T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-25T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_14,Think Different,Click,2023-03-26T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_14,Think Different,Click,2023-03-23T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_14,Think Different,Click,2023-03-24T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_15,Because You're Worth it,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_15,Because You're Worth it,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_15,Because You're Worth it,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_15,Because You're Worth it,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_16,It’s Finger Lickin,Click,2023-03-26T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-23T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-24T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-25T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-26T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-23T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-24T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-25T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-26T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-23T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_16,It’s Finger Lickin,Click,2023-03-24T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_16,It’s Finger Lickin,Click,2023-03-25T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_16,It’s Finger Lickin,Click,2023-03-26T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_17,America Runs On Dunkin,Click,2023-03-16T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-23T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-24T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-25T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-26T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-23T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-24T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-25T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-26T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-23T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_17,America Runs On Dunkin,Click,2023-03-24T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_17,America Runs On Dunkin,Click,2023-03-25T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_17,America Runs On Dunkin,Click,2023-03-26T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_18,Have A Break, Have A Kit Kat,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_19,A Diamond Is Forever,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_19,A Diamond Is Forever,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_19,A Diamond Is Forever,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_19,A Diamond Is Forever,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+85641c63d53a132915e30a97,CAM_20,A Better Life, A Better World,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-26T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_20,A Better Life, A Better World,Click,2023-03-23T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_20,A Better Life, A Better World,Click,2023-03-24T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_20,A Better Life, A Better World,Click,2023-03-25T10:23:55Z,Salesforce Marketing Cloud

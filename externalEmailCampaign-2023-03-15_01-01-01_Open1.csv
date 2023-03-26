@@ -1,0 +1,66 @@
+userId,externalCampaignId,externalCampaignName,eventType,eventDate,externalSystem
+85641c63d53a132915e30a97,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_10,Mayhem,Send,2023-02-19T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_10,Mayhem,Open,2023-02-20T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+86641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+82641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+85641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+80641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+87641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+81641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+84641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+83641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+88641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+7f641f6eac3b145cc55cccd3,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+23641f61f84390335762c4d8,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+f1641dba1b136ce634881217,CAM_01,Back to the Start,Open,2023-03-23T10:23:55Z,Eloqua
+85641c63d53a132915e30a97,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+86641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+82641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+85641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+80641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+87641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+81641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+84641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+83641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+88641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+7f641f6eac3b145cc55cccd3,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+23641f61f84390335762c4d8,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+f1641dba1b136ce634881217,CAM_02,Wassup,Open,2023-02-23T10:23:55Z,Responsys
+85641c63d53a132915e30a97,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+86641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+82641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+85641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+80641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+87641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+81641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+84641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+83641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+88641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+7f641f6eac3b145cc55cccd3,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+23641f61f84390335762c4d8,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
+f1641dba1b136ce634881217,CAM_03,Get a Mac,Open,2023-02-24T10:23:55Z,Salesforce Marketing Cloud
